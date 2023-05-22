@@ -12,6 +12,12 @@
    gap: 2rem;
 }
 
+.user {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
 .header nav ul {
    display: flex;
    gap: 1rem;
