@@ -6,7 +6,7 @@ export default function Footer() {
    return (
       <footer className={styles.footer}>
          {/* TODO */}
-         <p>all right is of {"Guest"}</p>
+         <p>All rights reserved -  {"Guest"} is connected</p>
       </footer>
    )
 }

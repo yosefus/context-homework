@@ -3,7 +3,8 @@ import styles from './style.module.css'
 
 export default function Form() {
 
-   // TODO- change name by press
+   // BONUS !!!
+   // TODO- change name by submit
    // TODO- form not shown if not connected
    return (
       <div className={styles.form}>

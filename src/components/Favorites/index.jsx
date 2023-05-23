@@ -5,9 +5,9 @@ import items from '../../assets/favorites.json'
 
 export default function Favorites() {
 
+   {/* TODO  - remove if disconnected and show please check in message*/ }
    return (
       <div className={styles.main}>
-         {/* TODO  - remove if disconnected*/}
          <h2>your favorite:</h2>
          <div className={styles.itemList}>
             {items.map((item) => (
